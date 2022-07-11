@@ -8,6 +8,6 @@ It is also a record for my progress in coding.
 
 **Rust Series**
 
-[Mini Grep](https://github.com/PeterWrightenArchive/mini_grep_rust)
+- [Mini Grep](https://github.com/PeterWrightenArchive/mini_grep_rust)
 
-[rustlings](https://github.com/PeterWrightenArchive/rustlings)
+- [rustlings](https://github.com/PeterWrightenArchive/rustlings)
