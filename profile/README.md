@@ -13,3 +13,5 @@ It is also a record for my progress in coding.
 - [rustlings](https://github.com/PeterWrightenArchive/rustlings)
 
 - [PeterServer](https://github.com/PeterWrightenArchive/PetersServer)
+
+- [HumanResourceMachine](https://github.com/PeterWrightenArchive/HumanResourceMachineASM)
